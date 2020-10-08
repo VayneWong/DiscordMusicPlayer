@@ -19,4 +19,4 @@ bot.on('message', async (userMessage) => {
 });
 
 
-bot.login('your-token-here');
+bot.login('NzYzNzQxOTMyNzI3ODI4NTQy.X38IGg.KBDU5YkDBhB5FLIwislavLyUYEY');
